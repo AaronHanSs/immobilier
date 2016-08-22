@@ -120,6 +120,20 @@ header nav a{
   width: 30%;
 }
 
+.carousel{
+  width: 100%;
+}
+
+.imgpres{
+  width: 60%;
+}
+
+.T1{
+  padding: 10px 0;
+  text-align: center;
+
+}
+
 
 
 /* ##################################################################### */
