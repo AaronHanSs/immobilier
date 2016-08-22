@@ -105,6 +105,16 @@ header {
   text-align: center;
 }
 
+nav{
+  background-color: #D9D8D0;
+  padding: 10px 0;
+}
+
+header nav a{
+  color: #716B8C;
+  margin: 0 5px;
+}
+
 .logo{
   height: 10%;
   width: 30%;
