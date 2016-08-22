@@ -100,19 +100,28 @@ textarea {
 /* ##########################   SMARTPHONE   ########################### */
 /* ##################################################################### */
 
+section{
+  background-color: #464646;
+
+}
+
+/*#######################################header##############################*/
 
 header {
   text-align: center;
+  margin: 0 0;
 }
 
 nav{
   background-color: #D9D8D0;
   padding: 10px 0;
+  /*margin-bottom: 20px;*/
 }
 
 header nav a{
   color: #716B8C;
   margin: 0 5px;
+  /*padding-bottom: 60px;*/
 }
 
 .logo{
@@ -124,6 +133,13 @@ header nav a{
   width: 100%;
 }
 
+/*######################################section##############################*/
+
+section{
+  padding-top: 1%;
+  
+}
+
 .imgpres{
   width: 60%;
 }
@@ -131,11 +147,42 @@ header nav a{
 .T1{
   padding: 10px 0;
   text-align: center;
+  color: #D2D2D2;
 }
 
 .T2{
   text-align: center;
   padding: 10px 0;
+  color: #D2D2D2;
+}
+
+section p {
+  color: #D2D2D2;
+}
+
+section a {
+  color: #000;
+}
+
+/*###############################footer#########################################*/
+footer{
+  background-color: #810000;
+}
+
+footer h3{
+  color: #000;
+}
+
+footer p {
+  color: #000;
+}
+
+footer ul{
+  list-style: none;
+}
+
+footer a {
+  color: #000;
 }
 /* ##################################################################### */
 /* ############################   TABLETS   ############################ */
