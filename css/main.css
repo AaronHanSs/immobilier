@@ -156,6 +156,10 @@ section{
   color: #D2D2D2;
 }
 
+.T3{
+color: #D2D2D2;
+}
+
 section p {
   color: #D2D2D2;
 }
@@ -175,7 +179,7 @@ footer h3{
 
 footer p {
   color: #000;
-}
+  }
 
 footer ul{
   list-style: none;
@@ -183,6 +187,23 @@ footer ul{
 
 footer a {
   color: #000;
+}
+
+#message{
+  padding-bottom: 300px;
+  margin-bottom: 20px;
+}
+
+button{
+  margin-bottom: 30px;
+}
+
+fieldset p {
+  margin-top: 10px;
+}
+
+.P1{
+color: #D2D2D2;
 }
 /* ##################################################################### */
 /* ############################   TABLETS   ############################ */
@@ -201,6 +222,10 @@ footer a {
 
     .vente,.location{
       padding-top: 30px;
+    }
+
+    #message{
+      padding-right: 300px;
     }
 
 
